@@ -1,0 +1,2 @@
+This is the first note I' ve made for Git.
+This is the second note to test the Git commit.
